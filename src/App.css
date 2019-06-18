@@ -1,0 +1,93 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@font-face {
+  font-family: Montserrat;
+  src: url('https://fonts.gstatic.com/s/montserrat/v12/BYPM-GE291ZjIXBWrtCweteM9fzAXBk846EtUMhet0E.woff2');
+}
+body {
+  color: var(--color);
+  font-family: 'Montserrat', sans-serif, -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, “Helvetica Neue”, Ubuntu, Arial, sans-serif;
+  font-size: var(--font-medium);
+  font-weight: 500;
+}
+.play-ground {
+  background-image: url('./assets/playground.jpg');
+  height: 100vh;
+}
+
+.logo {
+  background: #c51d23;
+  text-align: center;
+  width:100%;
+}
+
+footer {
+  position: fixed;
+  max-width: 480px;
+  bottom:0;
+  left:0;
+  width:100%;
+  background-color: #fff;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.5);
+}
+
+.header {
+  position: fixed;
+  max-width: 480px;
+  width: 100%;
+  left: 0;
+}
+
+.logo img {
+  height: 48px;
+  padding: 8px;
+}
+.matches {
+  height: 80vh;
+  overflow-y: scroll;
+  position: relative;
+  top: 100px;
+}
+section {
+  margin: 0 -15px;
+}
+
+@media only screen and (max-width:786px) {
+  footer {
+    width: 100%;
+  }
+  .play-ground {
+    display: none;
+  }
+}

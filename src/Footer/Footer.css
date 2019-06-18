@@ -1,0 +1,19 @@
+.nav-item {
+    width: 25%;
+    text-transform: uppercase;
+}
+.nav-link {
+    font-size: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: #888888;
+}
+header ~ .nav-link.active {
+    color: #c51d23
+}
+footer .nav-link.active {
+    color: #3759a5
+}
+.active {
+    border-bottom: 1px solid #c51d23;
+}

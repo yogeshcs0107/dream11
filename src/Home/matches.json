@@ -1,0 +1,1304 @@
+{
+    "matches": [
+        {
+          "id": 14942,
+          "name": "EN-W vs WI-W",
+          "startTime": "2019-06-18T18:00:00.000Z",
+          "status": "NOT_STARTED",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 646,
+              "name": "EN-W",
+              "shortName": "EN-W",
+              "squadColorPalette": "#eb5764",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EN-W-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EN-W-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 647,
+              "name": "WI-W",
+              "shortName": "WI-W",
+              "squadColorPalette": "#c9618c",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WI-W-CR2@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WI-W-CR2@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1078,
+            "name": "EN-W vs WI-W T20I",
+            "slug": "en-w-vs-wi-w-t20i"
+          }
+        },
+        {
+          "id": 14912,
+          "name": "DEN vs ITA",
+          "startTime": "2019-06-18T14:45:00.000Z",
+          "status": "NOT_STARTED",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 62,
+              "name": "DEN",
+              "shortName": "DEN",
+              "squadColorPalette": "#e38899",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEN-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEN-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 119,
+              "name": "ITA",
+              "shortName": "ITA",
+              "squadColorPalette": "#df787f",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ITA-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ITA-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1074,
+            "name": "T20 WC Europe Final",
+            "slug": "t20-wc-europe-final"
+          }
+        },
+        {
+          "id": 14913,
+          "name": "GER vs JER",
+          "startTime": "2019-06-18T14:45:00.000Z",
+          "status": "NOT_STARTED",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 95,
+              "name": "GER",
+              "shortName": "GER",
+              "squadColorPalette": "#ea6363",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GER-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GER-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 123,
+              "name": "JER",
+              "shortName": "JER",
+              "squadColorPalette": "#ffe016",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/JER-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/JER-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1074,
+            "name": "T20 WC Europe Final",
+            "slug": "t20-wc-europe-final"
+          }
+        },
+        {
+          "id": 14939,
+          "name": "NED vs ZIM",
+          "startTime": "2019-06-19T09:00:00.000Z",
+          "status": "NOT_STARTED",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 178,
+              "name": "NED",
+              "shortName": "NED",
+              "squadColorPalette": "#d76e7f",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NED-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NED-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 267,
+              "name": "ZIM",
+              "shortName": "ZIM",
+              "squadColorPalette": "#ed4d4d",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ZIM-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ZIM-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1077,
+            "name": "Netherlands vs Zimbabwe ODI",
+            "slug": "netherlands-vs-zimbabwe-odi"
+          }
+        },
+        {
+          "id": 14758,
+          "name": "NZ vs SA",
+          "startTime": "2019-06-19T09:30:00.000Z",
+          "status": "NOT_STARTED",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 186,
+              "name": "NZ",
+              "shortName": "NZ",
+              "squadColorPalette": "#4c64a7",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NZ-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NZ-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 212,
+              "name": "SA",
+              "shortName": "SA",
+              "squadColorPalette": "#53a784",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1064,
+            "name": "ICC Cricket World Cup 2019",
+            "slug": "icc-cricket-world-cup-2019"
+          }
+        },
+        {
+          "id": 14914,
+          "name": "GUE vs NOR",
+          "startTime": "2019-06-19T09:45:00.000Z",
+          "status": "NOT_STARTED",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 93,
+              "name": "GUE",
+              "shortName": "GUE",
+              "squadColorPalette": "#ffe95b",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GUE-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GUE-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 180,
+              "name": "NOR",
+              "shortName": "NOR",
+              "squadColorPalette": "#8498b6",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NOR-CR4@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NOR-CR4@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1074,
+            "name": "T20 WC Europe Final",
+            "slug": "t20-wc-europe-final"
+          }
+        },
+        {
+          "id": 14915,
+          "name": "ITA vs JER",
+          "startTime": "2019-06-19T09:45:00.000Z",
+          "status": "NOT_STARTED",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 119,
+              "name": "ITA",
+              "shortName": "ITA",
+              "squadColorPalette": "#df787f",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ITA-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ITA-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 123,
+              "name": "JER",
+              "shortName": "JER",
+              "squadColorPalette": "#ffe016",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/JER-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/JER-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1074,
+            "name": "T20 WC Europe Final",
+            "slug": "t20-wc-europe-final"
+          }
+        },
+        {
+          "id": 14916,
+          "name": "DEN vs GER",
+          "startTime": "2019-06-19T14:45:00.000Z",
+          "status": "UP_COMING",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 62,
+              "name": "DEN",
+              "shortName": "DEN",
+              "squadColorPalette": "#e38899",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEN-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEN-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 95,
+              "name": "GER",
+              "shortName": "GER",
+              "squadColorPalette": "#ea6363",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GER-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GER-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1074,
+            "name": "T20 WC Europe Final",
+            "slug": "t20-wc-europe-final"
+          }
+        },
+        {
+          "id": 14759,
+          "name": "AUS vs BAN",
+          "startTime": "2019-06-20T09:30:00.000Z",
+          "status": "NOT_STARTED",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 13,
+              "name": "AUS",
+              "shortName": "AUS",
+              "squadColorPalette": "#4d66a3",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AUS-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AUS-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 25,
+              "name": "BAN",
+              "shortName": "BAN",
+              "squadColorPalette": "#599f8a",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BAN-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BAN-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1064,
+            "name": "ICC Cricket World Cup 2019",
+            "slug": "icc-cricket-world-cup-2019"
+          }
+        },
+        {
+          "id": 14971,
+          "name": "NOR vs AU-A",
+          "startTime": "2019-06-20T12:00:00.000Z",
+          "status": "NOT_STARTED",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 295,
+              "name": "NOR",
+              "shortName": "NOR",
+              "squadColorPalette": "#cb8fa7",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NOR-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NOR-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 532,
+              "name": "AU-A",
+              "shortName": "AU-A",
+              "squadColorPalette": "#4d66a3",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AUS-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AUS-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1080,
+            "name": "Australia A tour of England OD",
+            "slug": "australia-a-tour-of-england-od"
+          }
+        },
+        {
+          "id": 14940,
+          "name": "NED vs ZIM",
+          "startTime": "2019-06-21T09:00:00.000Z",
+          "status": "UP_COMING",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 178,
+              "name": "NED",
+              "shortName": "NED",
+              "squadColorPalette": "#d76e7f",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NED-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NED-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 267,
+              "name": "ZIM",
+              "shortName": "ZIM",
+              "squadColorPalette": "#ed4d4d",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ZIM-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ZIM-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1077,
+            "name": "Netherlands vs Zimbabwe ODI",
+            "slug": "netherlands-vs-zimbabwe-odi"
+          }
+        },
+        {
+          "id": 14760,
+          "name": "ENG vs SL",
+          "startTime": "2019-06-21T09:30:00.000Z",
+          "status": "NOT_STARTED",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 245,
+              "name": "ENG",
+              "shortName": "ENG",
+              "squadColorPalette": "#eb5764",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ENG-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ENG-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 44,
+              "name": "SL",
+              "shortName": "SL",
+              "squadColorPalette": "#fedd55",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SRI-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SRI-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1064,
+            "name": "ICC Cricket World Cup 2019",
+            "slug": "icc-cricket-world-cup-2019"
+          }
+        },
+        {
+          "id": 14943,
+          "name": "EN-W vs WI-W",
+          "startTime": "2019-06-21T18:00:00.000Z",
+          "status": "UP_COMING",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 646,
+              "name": "EN-W",
+              "shortName": "EN-W",
+              "squadColorPalette": "#eb5764",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EN-W-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EN-W-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 647,
+              "name": "WI-W",
+              "shortName": "WI-W",
+              "squadColorPalette": "#c9618c",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WI-W-CR2@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WI-W-CR2@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1078,
+            "name": "EN-W vs WI-W T20I",
+            "slug": "en-w-vs-wi-w-t20i"
+          }
+        },
+        {
+          "id": 14967,
+          "name": "PK-Y vs SA-Y",
+          "startTime": "2019-06-22T08:00:00.000Z",
+          "status": "NOT_STARTED",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 351,
+              "name": "PK-Y",
+              "shortName": "PK-Y",
+              "squadColorPalette": "#4d8c63",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAK-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAK-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 354,
+              "name": "SA-Y",
+              "shortName": "SA-Y",
+              "squadColorPalette": "#53a784",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SA-Y-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SA-Y-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1079,
+            "name": "SA-U19 vs PK-U19 ODI",
+            "slug": "sa-u19-vs-pk-u19-odi"
+          }
+        },
+        {
+          "id": 14761,
+          "name": "AFGH vs IND",
+          "startTime": "2019-06-22T09:30:00.000Z",
+          "status": "NOT_STARTED",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 4,
+              "name": "AFGH",
+              "shortName": "AFGH",
+              "squadColorPalette": "#f05656",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AFGH-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AFGH-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 114,
+              "name": "IND",
+              "shortName": "IND",
+              "squadColorPalette": "#f7c37a",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IND-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IND-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1064,
+            "name": "ICC Cricket World Cup 2019",
+            "slug": "icc-cricket-world-cup-2019"
+          }
+        },
+        {
+          "id": 14762,
+          "name": "NZ vs WI",
+          "startTime": "2019-06-22T12:30:00.000Z",
+          "status": "UP_COMING",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 186,
+              "name": "NZ",
+              "shortName": "NZ",
+              "squadColorPalette": "#4c64a7",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NZ-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NZ-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 260,
+              "name": "WI",
+              "shortName": "WI",
+              "squadColorPalette": "#c9618c",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WI-CR2@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WI-CR2@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1064,
+            "name": "ICC Cricket World Cup 2019",
+            "slug": "icc-cricket-world-cup-2019"
+          }
+        },
+        {
+          "id": 14763,
+          "name": "PAK vs SA",
+          "startTime": "2019-06-23T09:30:00.000Z",
+          "status": "UP_COMING",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 192,
+              "name": "PAK",
+              "shortName": "PAK",
+              "squadColorPalette": "#4d8c63",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAK-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAK-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 212,
+              "name": "SA",
+              "shortName": "SA",
+              "squadColorPalette": "#53a784",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1064,
+            "name": "ICC Cricket World Cup 2019",
+            "slug": "icc-cricket-world-cup-2019"
+          }
+        },
+        {
+          "id": 14954,
+          "name": "DER vs AU-A",
+          "startTime": "2019-06-23T10:00:00.000Z",
+          "status": "UP_COMING",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 359,
+              "name": "DER",
+              "shortName": "DER",
+              "squadColorPalette": "#a2c1d8",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DER-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DER-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 532,
+              "name": "AU-A",
+              "shortName": "AU-A",
+              "squadColorPalette": "#4d66a3",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AUS-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AUS-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1080,
+            "name": "Australia A tour of England OD",
+            "slug": "australia-a-tour-of-england-od"
+          }
+        },
+        {
+          "id": 14764,
+          "name": "AFGH vs BAN",
+          "startTime": "2019-06-24T09:30:00.000Z",
+          "status": "UP_COMING",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 4,
+              "name": "AFGH",
+              "shortName": "AFGH",
+              "squadColorPalette": "#f05656",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AFGH-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AFGH-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 25,
+              "name": "BAN",
+              "shortName": "BAN",
+              "squadColorPalette": "#599f8a",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BAN-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BAN-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1064,
+            "name": "ICC Cricket World Cup 2019",
+            "slug": "icc-cricket-world-cup-2019"
+          }
+        },
+        {
+          "id": 14947,
+          "name": "PK-Y vs SA-Y",
+          "startTime": "2019-06-25T08:00:00.000Z",
+          "status": "UP_COMING",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 351,
+              "name": "PK-Y",
+              "shortName": "PK-Y",
+              "squadColorPalette": "#4d8c63",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAK-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAK-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 354,
+              "name": "SA-Y",
+              "shortName": "SA-Y",
+              "squadColorPalette": "#53a784",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SA-Y-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SA-Y-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1079,
+            "name": "SA-U19 vs PK-U19 ODI",
+            "slug": "sa-u19-vs-pk-u19-odi"
+          }
+        },
+        {
+          "id": 14765,
+          "name": "ENG vs AUS",
+          "startTime": "2019-06-25T09:30:00.000Z",
+          "status": "UP_COMING",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 245,
+              "name": "ENG",
+              "shortName": "ENG",
+              "squadColorPalette": "#eb5764",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ENG-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ENG-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 13,
+              "name": "AUS",
+              "shortName": "AUS",
+              "squadColorPalette": "#4d66a3",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AUS-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AUS-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1064,
+            "name": "ICC Cricket World Cup 2019",
+            "slug": "icc-cricket-world-cup-2019"
+          }
+        },
+        {
+          "id": 14955,
+          "name": "WOR vs AU-A",
+          "startTime": "2019-06-25T10:00:00.000Z",
+          "status": "UP_COMING",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 372,
+              "name": "WOR",
+              "shortName": "WOR",
+              "squadColorPalette": "#81b59d",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WOR-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WOR-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 532,
+              "name": "AU-A",
+              "shortName": "AU-A",
+              "squadColorPalette": "#4d66a3",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AUS-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AUS-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1080,
+            "name": "Australia A tour of England OD",
+            "slug": "australia-a-tour-of-england-od"
+          }
+        },
+        {
+          "id": 14944,
+          "name": "EN-W vs WI-W",
+          "startTime": "2019-06-25T18:00:00.000Z",
+          "status": "UP_COMING",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 646,
+              "name": "EN-W",
+              "shortName": "EN-W",
+              "squadColorPalette": "#eb5764",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EN-W-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EN-W-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 647,
+              "name": "WI-W",
+              "shortName": "WI-W",
+              "squadColorPalette": "#c9618c",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WI-W-CR2@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WI-W-CR2@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1078,
+            "name": "EN-W vs WI-W T20I",
+            "slug": "en-w-vs-wi-w-t20i"
+          }
+        },
+        {
+          "id": 14766,
+          "name": "NZ vs PAK",
+          "startTime": "2019-06-26T09:30:00.000Z",
+          "status": "UP_COMING",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 186,
+              "name": "NZ",
+              "shortName": "NZ",
+              "squadColorPalette": "#4c64a7",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NZ-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NZ-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 192,
+              "name": "PAK",
+              "shortName": "PAK",
+              "squadColorPalette": "#4d8c63",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAK-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAK-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1064,
+            "name": "ICC Cricket World Cup 2019",
+            "slug": "icc-cricket-world-cup-2019"
+          }
+        },
+        {
+          "id": 14948,
+          "name": "PK-Y vs SA-Y",
+          "startTime": "2019-06-27T08:00:00.000Z",
+          "status": "UP_COMING",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 351,
+              "name": "PK-Y",
+              "shortName": "PK-Y",
+              "squadColorPalette": "#4d8c63",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAK-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAK-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 354,
+              "name": "SA-Y",
+              "shortName": "SA-Y",
+              "squadColorPalette": "#53a784",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SA-Y-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SA-Y-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1079,
+            "name": "SA-U19 vs PK-U19 ODI",
+            "slug": "sa-u19-vs-pk-u19-odi"
+          }
+        },
+        {
+          "id": 14767,
+          "name": "IND vs WI",
+          "startTime": "2019-06-27T09:30:00.000Z",
+          "status": "UP_COMING",
+          "matchHighlight": null,
+          "squads": [
+            {
+              "id": 114,
+              "name": "IND",
+              "shortName": "IND",
+              "squadColorPalette": "#f7c37a",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IND-CR1@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/IND-CR1@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": 260,
+              "name": "WI",
+              "shortName": "WI",
+              "squadColorPalette": "#c9618c",
+              "flag": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WI-CR2@2x.png",
+                  "type": null
+                }
+              ],
+              "flagWithName": [
+                {
+                  "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WI-CR2@2x-BIG.png",
+                  "type": null
+                }
+              ]
+            }
+          ],
+          "tour": {
+            "id": 1064,
+            "name": "ICC Cricket World Cup 2019",
+            "slug": "icc-cricket-world-cup-2019"
+          }
+        }
+      ]
+  }

@@ -1,0 +1,24 @@
+.name {
+    font-size: 12px;
+}
+.card {
+    margin: 15px;
+}
+.card img {
+    height: 50px;
+    width: 50px;
+}
+.align-content-right {
+    position: relative;
+    top: 25%;
+    left: 6%;
+    font-size: 12px;
+    font-weight: bold;
+}
+.align-content-left {
+    position: relative;
+    top: 25%;
+    left: right%;
+    font-size: 12px;
+    font-weight: bold;
+}
